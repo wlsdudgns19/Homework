@@ -13,7 +13,7 @@
 
 
 [3] Github 계정 생성 
-=> ID: wlsdudgns19 로 생성하였습니다.
+ => ID: wlsdudgns19 로 생성하였습니다.
 
 [중간 Quiz]
 - 현재 MovieVO.java 파일을 작성해 놓치 않았습니다.
